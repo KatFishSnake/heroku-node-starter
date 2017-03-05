@@ -1,8 +1,6 @@
 {
-  "name": "Start on Heroku: Node.js",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-getting-started",
-  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "name": "Heroku node template",
+  "description": "A barebones node using Express 4 serves index.html",
+  "repository": "https://github.com/KatFishSnake/heroku-node-starter",
   "keywords": ["node", "express", "static"],
-  "image": "heroku/nodejs"
 }
